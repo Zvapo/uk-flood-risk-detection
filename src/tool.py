@@ -63,7 +63,6 @@ class Tool(object):
                 self.postcode_labelled_path)
 
         self.postcodedb_df = pd.read_csv(self.postcodedb_path)
-        print(self.postcodedb_df.head())
 
     def add_file_to_db(self, file_path: str, predictions_2_append: tuple):
         '''

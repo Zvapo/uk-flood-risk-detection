@@ -1,9 +1,15 @@
 # UK Flood Risk Detection System 🌊
 
+## Status
+[![Version](https://img.shields.io/github/v/release/Zvapo/uk-flood-risk-detection?include_prereleases)](https://github.com/Zvapo/uk-flood-risk-detection/releases)
+[![License](https://img.shields.io/github/license/Zvapo/uk-flood-risk-detection)](https://github.com/Zvapo/uk-flood-risk-detection/blob/main/LICENSE)
+
 ## Overview
 This program uses a machine learning model to predict the flood risk for a given UK postcode. The model is trained on historical data and is used to predict the flood risk from an unlabelled dataset.
 This is my playground project where I explore different machine learning models, prediction methods and data transformation techniques.
 Feel free to use the code as you see fit.
+
+![Demo](assets/demo.gif)
 
 ## Flood Risk Calculation
 Flood risk is calculated from the median house price in the postcode and the flood risk.
@@ -78,7 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For support or queries, please contact:
 - Twitter: @LocusIII
-
-## Status
-[![Version](https://img.shields.io/github/v/release/Zvapo/uk-flood-risk-detection?include_prereleases)](https://github.com/Zvapo/uk-flood-risk-detection/releases)
-[![License](https://img.shields.io/github/license/Zvapo/uk-flood-risk-detection)](https://github.com/Zvapo/uk-flood-risk-detection/blob/main/LICENSE)
